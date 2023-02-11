@@ -35,15 +35,3 @@ body{
     background: linear-gradient(90deg,#a266eb,#ee6b44);
     margin-left:110px;
 }
-/*.texts label {
-    pointer-events: none;
-    transition: .5s;
-    font-weight: 600px;
-}
-.texts span::before{
-    content: '';
-    position: absolute;
-    background: #452015;
-    
-}
-*/
